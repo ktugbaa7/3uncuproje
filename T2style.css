@@ -1,0 +1,105 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+#container {
+    background-color: rgb(245, 188, 216);
+    width: 1200px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: flex-start;
+    
+    align-items: flex-start;
+    
+    
+}
+ #alan {
+     background-color: rgb(255, 255, 255);
+     width: 1200px;
+     height: 100px;
+     display: flex;
+     justify-content: flex-start;
+     
+     align-items: center;
+
+    
+ }     
+
+#alann {
+    background-color: rgb(54, 218, 136);
+    width: 500px;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+    
+}
+
+#kutu0 {
+    background: chartreuse;
+    width: 75px;
+    height: 75px;
+    float: left;
+
+    
+    
+}
+#kutu1 {
+    background: rgb(26, 180, 160);
+    width: 75px;
+    height: 75px;
+    float: left;
+    
+    
+    
+    
+}
+
+#kutu2 {
+    background: darkslateblue;
+    width: 75px;
+    height: 75px;
+    float: left;
+    
+    
+    
+    
+     
+}
+
+#kutu3 {
+    background: deeppink;
+    width: 75px;
+    height: 75px;
+    float: left;
+    
+    
+      
+}
+
+#kutu4 {
+    background: rgb(233, 24, 17);
+    width: 75px;
+    height: 75px;
+    float: left;
+    
+    
+    
+
+} 
+
+#kutu5 {
+    background: rgb(235, 110, 27);
+    width: 75px;
+    height: 75px;
+    float: left;
+    
+    
+    
+    
+    
+     
+}
